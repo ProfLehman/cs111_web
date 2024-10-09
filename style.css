@@ -1,25 +1,21 @@
-/* 
-  style.css
-  add current date here
-  add your name here
-
-  sample CSS style sheet
+/*
+style.css
+demonstrates basic CSS rules
 */
 
-body {
-    background-color: #F0F0F0;
-}
-
-h1 {   
-	color: orange;
+h1 {
+ font-family: "Comic Sans MS", Arial, sans-serif;
+ color: orange;
 }
 
 p {
-    font-family: "Comic Sans MS", Arial, sans-serif;
+ color:green;
+ font-size:18pt;
 }
-
 ol {
-    list-style: lower-roman;
+ list-style: upper-roman;
 }
 
-
+body {
+ background-color: #F0F0F0;
+}
